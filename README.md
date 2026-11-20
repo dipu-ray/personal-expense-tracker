@@ -1,1 +1,3 @@
-# personal-expense-budget-tracker
+# personal-expense-tracker
+
+Started: 20 November 2026
